@@ -1,4 +1,6 @@
-﻿AngleCalculator anglecalculator = new AngleCalculator();
+﻿using AngleCalculations;
+
+AngleCalculator anglecalculator = new AngleCalculator();
 
 Console.WriteLine("Enter the time in the following format: HH:mm (24H)");
 

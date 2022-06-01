@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32516.85
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngleCalculator", "AngleCalculator\AngleCalculator.csproj", "{656327B8-EA06-4156-91B6-A3EB45B74512}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngleCalculatorTests", "AngleCalculatorTests\AngleCalculatorTests.csproj", "{06C9DAE5-6DCF-4A6E-AB1B-304183C747A3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{656327B8-EA06-4156-91B6-A3EB45B74512}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{656327B8-EA06-4156-91B6-A3EB45B74512}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{656327B8-EA06-4156-91B6-A3EB45B74512}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06C9DAE5-6DCF-4A6E-AB1B-304183C747A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06C9DAE5-6DCF-4A6E-AB1B-304183C747A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06C9DAE5-6DCF-4A6E-AB1B-304183C747A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06C9DAE5-6DCF-4A6E-AB1B-304183C747A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
